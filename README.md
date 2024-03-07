@@ -1,6 +1,10 @@
 ## Visualizations Overview
 
-The app integrates various visualizations to aid in the understanding and analysis of expected costs related to medical testing, particularly focusing on scenarios like cancer screenings. Each visualization is designed to offer insights into different aspects of the cost-benefit analysis of diagnostic tests.
+Shiny app link:
+
+[https://fnh30i-lasse-hansen.shinyapps.io/AUCIAYN_shiny_v2/](https://fnh30i-lasse-hansen.shinyapps.io/AUCIAYN_shiny_v2/)
+
+The app integrates various visualizations to aid in the understanding and analysis of expected costs related to medical testing. Each visualization is designed to offer insights into different aspects of the cost-benefit analysis of diagnostic tests.
 
 ### Model Choice Distribution
 
